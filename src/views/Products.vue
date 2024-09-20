@@ -49,7 +49,7 @@ export default {
         // НЕГАЗИРАНИ ПИЈАЛОЦИ/SOFT DRINKS
         [
           {
-            name: "Вода (голема)/Water 0.75",
+            name: "Вода (голема)/ 0.75",
             price: "120",
             ingredients: "Безалкохолни пијалоци",
           },
